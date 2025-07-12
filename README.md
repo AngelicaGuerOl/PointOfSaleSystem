@@ -53,7 +53,6 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado en **Java** con
 
 ```bash
 git clone https://github.com/AngelicaGuerOl/PointOfSaleSystem.git
-
-2. **Abre el proyecto en tu IDE Java preferido (IntelliJ, NetBeans, Eclipse, etc.).**
+cd PointOfSaleSystem
 
 
