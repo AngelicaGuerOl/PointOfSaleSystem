@@ -68,7 +68,7 @@ cd PointOfSaleSystem
    - Regístrate y luego inicia sesión.
 ---
 
-##📄 Documentación
+## 📄 Documentación
 La documentación del proyecto se encuentra en la carpeta /docs y contiene detalles técnicos.
 
 ---
