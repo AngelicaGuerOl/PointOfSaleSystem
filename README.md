@@ -41,7 +41,7 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado en **Java** con
 
 ## ✅ Requisitos previos
 
-- Tener instalado **Java JDK 8** o superior.
+- Tener instalado **Java JDK 20**
 - Tener instalado **MySQL Server** (local o remoto).
 - Tener un IDE como **NetBeans**, **IntelliJ IDEA** o **Eclipse**.
 
@@ -54,5 +54,17 @@ Este proyecto es un sistema de punto de venta (POS) desarrollado en **Java** con
 ```bash
 git clone https://github.com/AngelicaGuerOl/PointOfSaleSystem.git
 cd PointOfSaleSystem
+```
+2. **Abre el proyecto en tu IDE Java preferido (IntelliJ, NetBeans, Eclipse, etc.).**
+3. **Configura la conexión a la base de datos:**
+   -Crea una base de datos vacía llamada tienda en MySQL.
+   -Importa el archivo SQL incluido en /database.
+   -Modifica la clase Conexion.java para configurar las credenciales de acceso a la base de datos.
+4. Ejecuta el sistema:
+   -Compila el proyecto.
+   -Ejecuta la clase principal Login.java
+   -Registrate y inicia sesión.
 
+## 🧑‍💻 Autor
 
+Desarrollado por: [Angelica Guerrero Olvera](https://github.com/AngelicaGuerOl)
